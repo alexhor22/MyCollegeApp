@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My College Calories</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_start">START</string>
+    <string name="button_picture">Look for Calories</string>
+    <string name="button_track">Track my Day</string>
+</resources>
